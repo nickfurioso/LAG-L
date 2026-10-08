@@ -15,7 +15,7 @@ List of what the files are and what they do:
 - LICENSE: Apache License
 - ops_seis-l1b-mpsl_g18_d20251231_v0-0-0: MPS-LO GOES-18 readings from 00:00-02:00 UTC
 - plot_all3.ipynb: plotting file that requires outputs from all three solvers (LAG-GC, LAG-L, and SLAG-V). However, it can be edited to just require output from a single solver. Most up-to-date version of the plots
-- plot_SLACMAVS.ipynb: Old version of the plotting code that plots LAG-GC alone
+- plot_lorentz.ipynb: Old version of the plotting code that plots LAG-GC alone
 - PrecomputeGridValuesTime.ipynb: File that creates Interpolators_4D_Float32.pkl
 - README: READ ME file
 - sci_mpsh-l2-avg1m_g18_d20251231_v2-0-2: MPS-HI GOES-18 readings from 00:00-02:00 UTC
